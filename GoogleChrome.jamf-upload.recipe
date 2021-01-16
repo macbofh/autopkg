@@ -5,7 +5,7 @@
     <key>Description</key>
     <string>Uses parent pkg recipe to download latest GoogleChrome and import it into Jamf Pro.</string>
     <key>Identifier</key>
-    <string>com.macbofh.jamf-upload.GoogleChrome</string>
+    <string>com.macbofh.jamf-upload.googlechrome</string>
     <key>Input</key>
     <dict>
         <key>CATEGORY</key>
